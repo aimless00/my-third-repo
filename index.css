@@ -1,0 +1,28 @@
+h2{
+    color: aqua;
+    background-color: burlywood;
+    width: 100%;
+    text-align: center;
+}
+.borno{
+    color: rgb(211, 22, 22);
+    width: 100%;
+    text-align: center;
+    background-color: rgb(35, 190, 113)
+
+
+}
+#alamin{
+    background-color:rgb(209, 184, 233) ;
+    color: rgb(153, 151, 142);
+    text-align: center;
+}
+form{
+    border: darkmagenta solid 15px;
+    border-radius: 25px;
+    padding-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: darkseagreen;
+    background-color: dimgrey;
+}
