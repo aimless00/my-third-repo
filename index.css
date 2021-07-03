@@ -26,3 +26,19 @@ form{
     color: darkseagreen;
     background-color: dimgrey;
 }
+h1{
+    color: gray;
+    text-align: center;
+}
+#akash{
+    border: greenyellow solid 15px;
+    text-align: center;
+}
+.zahid{
+    color: grey;
+    border: lawngreen double 10px;
+    text-align: center;
+    background-color: rgb(231, 213, 213);
+    border-radius: 10px;
+    padding: 25px;
+}
